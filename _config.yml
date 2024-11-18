@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xingyu Li 李星宇"
+title                    : "Xingyu Li"
 title_separator          : "-"
 name                     : &name "Xingyu Li"
 description              : &description "Welcome to my webpage!"
