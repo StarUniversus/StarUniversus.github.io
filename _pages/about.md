@@ -57,7 +57,7 @@ Xiao Dong, Pan Zhou, **Xingyu Li**, Zheng Chong, Yuhao Cheng, Jianxing Yu, Jian 
 
 1. *ACTIONFILLER: FILL-IN-THE-BLANK PROMPTING FOR OS AGENTS* <br/>
 Xiao Dong, Zijun Zhang, **Xingyu Li**, Yuhao Cheng, Jianxing Yu, Jian Yin, Pan Zhou, Xiaodan Liang <br/>
-*ICLR 2025 (rebuttal)*
+*ICLR 2025 (submission)*
 [<a href="{{base.url}}/files/ActionFiller.pdf" target="_blank">PDF</a>] 
 
 Projects
