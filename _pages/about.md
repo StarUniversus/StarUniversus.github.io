@@ -54,7 +54,9 @@ Xiao Dong, Zijun Zhang, **Xingyu Li**, Yuhao Cheng, Jianxing Yu, Jian Yin, Pan Z
 ### Spatial Reasoning
 1. *SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery* <br/>
 Meng Cao<sup>\*</sup>, **Xingyu Li**<sup>\*</sup> (co-first author), Xue Liu, Ian Reid, Xiaodan Liang <br/>
+*CVPR Findings (2026)*
 [<a href="{{base.url}}/files/SpatialDreamer.pdf" target="_blank">PDF</a>] 
+[<a href="https://github.com/mengcaopku/SpatialDreamer" target="_blank">Source Code</a>] 
 
 Projects
 ======
